@@ -1,0 +1,26 @@
+                                          Final Project Algortithm
+
+                            - All import statements are at the top of the page -
+                           - Define Functions throughought the main body of code -
+
+
+
+- User will be asked to input a date for viewing the release of company earnings from NASDAQ
+    - If the date is valid, the output will be a list of stocks
+    - If invalid, the code will output "invalid date, try again with a weekday within 2 weeks from today."
+        - If invalid - (no prompt due to df display issues)
+- After output is successful, the user will be prompted to enter a stock symbol
+    - Based off of earnings announcements output we must create list of choices = [] ("valid_choices")
+- User will run Section 2 of the code and be asked to input a stock from the earnings calendar for the specified date
+    - This stock will only be of valid input if it is in the list valid_choices
+    - If valid stock_choice is in list[] then output stock data
+        - Continue to Plotly to show img of performance graph
+    - If user enters an invalid symbol (not in the list or bad input)
+        - Output will be this symbol is invalid, "please enter a symbol from the list above"
+    If the user enters a valid symbol with no data
+        - Output will be "We are sorry but we do not have any data for that stock. Our engineers are working to solve your problem."
+- After valid output of data Plotly will output a graph based on the stock_choice variable from the GraphPostOrPass() function
+    - If the graph does not load, an "Oops" Statement will be outputted
+- After GraphPostOrPass() function is ran, their will be an outputted analyst recommendation for the stock
+    - If there is no recommendation then the output will be "No Data" and "We do not have an official NASDAQ recommendation."
+- This will conclude the program
