@@ -1,0 +1,19 @@
+                                              Zachary Ventrice
+                                                 John Sauve
+
+                                     IST 256 Project – Division of Labor
+
+Poster
+
+• Both John and I collaborated on a poster idea and what material to include on it. We went step by step in Adobe Photoshop
+ to create a poster we agreed on.
+
+Video
+
+•	For the video portion, I filmed while John explained our project and walked you through it in a short 2-minute video.
+
+Code
+
+•	For the coding portion John took over for most of it. We came together to talk about input into how we should organize
+the code, what we should prompt the user with, and we brainstormed when there was a problem and how we would go about 
+fixing it. John was the one who mainly fixed the problems and wrote the code for the project. 
